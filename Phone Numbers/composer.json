@@ -1,0 +1,11 @@
+{
+    "name": "blink22/phone-numbers",
+    "description": "validate phone numbers",
+    "authors": [
+        {
+            "name": "fady-george",
+            "email": "fady.george@blink22.com"
+        }
+    ],
+    "require": {}
+}
