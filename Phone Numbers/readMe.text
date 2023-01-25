@@ -1,4 +1,4 @@
 please us this command to run "php -S localhost:8000"
 
 I prefered not to use regex in the sql queries 
-as that isn't the topic you want to test
+as that isn't the topic you want to test and Sqlite don't support regexp to be used in our query
